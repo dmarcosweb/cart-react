@@ -3,7 +3,7 @@ const Navbar = () => {
   return (
     <nav>
       <div className='nav-center'>
-        <h4>useReducer</h4>
+        <h4>Store cart example</h4>
         <div className='nav-container'>
           <FaCartPlus className='cart-icon' />
           <div className='amount-container'>
